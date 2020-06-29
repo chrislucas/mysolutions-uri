@@ -1,0 +1,11 @@
+First-Class Functions
+https://golang.org/doc/codewalk/functions/
+
+Type Aliases vs Type Definitions in GO
+https://alehatsman.com/posts/golang_type_declaration_abuse.html
+https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e
+
+strings.Builder somente a partir do Golang 1.10
+
+bytes.Buffer
+https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go
